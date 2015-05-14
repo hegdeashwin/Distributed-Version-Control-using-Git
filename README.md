@@ -23,6 +23,8 @@ This training kit has been developed for those who want to learn distributed ver
 * Build your own remote server.
 * Understanding Git branching model.
 
+Please visit [http://slides.com/ashwinhegde/deck/fullscreen](http://slides.com/ashwinhegde/deck/fullscreen) for online presentation.
+
 ## Contributors
 
 Developed &amp; maintained by author: <b>Ashwin Hegde</b><br>
@@ -36,6 +38,9 @@ To request a feature or you find any typo errors, enhancements or questions; ple
 
 ## License
 
-The MIT License (MIT)
+All graphical assets are licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 
+The credit goes to [https://github.com/git/git-scm.com](https://github.com/git/git-scm.com)
+
+The MIT License (MIT)
 Copyright (c) 2015 Ashwin Hegde
