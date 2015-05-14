@@ -5,6 +5,27 @@ This training kit has been developed for those who want to learn distributed ver
 * Installation of git bash [http://git-scm.com/downloads](http://git-scm.com/downloads)
 * Installation of git gui
 
+## Installation
+
+Assuming that Git is already installed & running:
+
+```
+git clone https://github.com/hegdeashwin/Distributed-Version-Control-using-Git.git
+```
+
+Assuming that Node.js is already installed & running,
+
+Install server side dependencies:
+
+```
+npm install
+```
+
+To start the local server:
+```
+node server.js
+``` 
+
 ## Table of Content
 * Understanding version control.
 * History.
