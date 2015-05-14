@@ -27,7 +27,8 @@ Please visit [http://slides.com/ashwinhegde/deck/fullscreen](http://slides.com/a
 
 ## Contributors
 
-Developed &amp; maintained by author: <b>Ashwin Hegde</b><br>
+Developed &amp; maintained by author: Ashwin Hegde
+
 Follow me at: [github](https://github.com/hegdeashwin) | [Linkedin](http://in.linkedin.com/in/hegdeashwin) | [Twitter](https://twitter.com/hegdeashwin3)
 
 We really appreciate all kind of feedback and contributions. Thanks for using and supporting this project: 
