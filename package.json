@@ -1,6 +1,6 @@
 {
   "name": "distributed-version-control-using-git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Ashwin Hegde",
   "description": "This training kit has been developed for those who want to learn distributed version control using Git and Github.",
   "main": "server.js",
