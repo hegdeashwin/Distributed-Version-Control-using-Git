@@ -1,9 +1,8 @@
 {
   "name": "distributed-version-control-using-git",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Ashwin Hegde",
   "description": "This training kit has been developed for those who want to learn distributed version control using Git and Github.",
-  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "http://github.com/hegdeashwin/Distributed-Version-Control-using-Git"
@@ -19,9 +18,6 @@
   },
   "wiki": {
     "url": "http://github.com/hegdeashwin/Distributed-Version-Control-using-Git/wiki"
-  },
-  "dependencies": {
-    "hapi": "^8.4.0"
   },
   "engines": {
     "node": ">=0.10"
