@@ -28,7 +28,7 @@ node server.js
 
 ## Table of Content
 
-# Part 1
+#### Part 1
 * Understanding version control.
 * History.
 * Understandinf Distributed version control system.
@@ -40,7 +40,7 @@ node server.js
 * Git log operations.
 * Undo changes operations.
 
-# Part 2
+#### Part 2
 * Git GUI environment.
 * Ignore files.
 * Branching.
@@ -48,7 +48,7 @@ node server.js
 * Stashing operations.
 * Understanding Git branching model.
 
-# Part 3
+#### Part 3
 * Build your own remote server.
 * Introduction to Github & Github Desktop.
 * Github Enterprise.
