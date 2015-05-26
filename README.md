@@ -27,22 +27,31 @@ node server.js
 ``` 
 
 ## Table of Content
+
+# Part 1
 * Understanding version control.
 * History.
-* Distributed version control.
-* Getting started: console environment.
-* Git concept & Architecture.
-* Getting started: GUI environment.
-* Making file changes and undo operations.
-* Ignoring files.
+* Understandinf Distributed version control system.
+* Git introduction & installation.
+* Console environment.
+* Making Your First Commit.
+* File changes operations.
+* Git concepts & architecture.
+* Git log operations.
+* Undo changes operations.
+
+# Part 2
+* Git GUI environment.
+* Ignore files.
 * Branching.
-* Merging branches.
+* Merge branching.
 * Stashing operations.
-* Third party utilities.
-* Remotes.
-* Github and Github Enterprise.
-* Build your own remote server.
 * Understanding Git branching model.
+
+# Part 3
+* Build your own remote server.
+* Introduction to Github & Github Desktop.
+* Github Enterprise.
 
 Please visit [http://slides.com/ashwinhegde/deck/fullscreen](http://slides.com/ashwinhegde/deck/fullscreen) for online presentation.
 
