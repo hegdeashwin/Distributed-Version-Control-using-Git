@@ -15,20 +15,24 @@ git clone https://github.com/hegdeashwin/Distributed-Version-Control-using-Git.g
 
 Assuming that Node.js is already installed & running,
 
-Install server side dependencies:
+Install Node.js based HTTP-Server dependencies:
 
 ```
-npm install
+npm -g install http-server
 ```
 
 To start the local server:
 ```
-node server.js
-``` 
+http-server
+```
+OR
+```
+http-server -p 5005
+```
 
 ## Table of Content
 
-#### Part 1
+#### Part 1 [Slides](http://slides.com/ashwinhegde/dvcs-part-2-5/fullscreen)
 * Understanding version control.
 * History.
 * Understandinf Distributed version control system.
@@ -40,7 +44,7 @@ node server.js
 * Git log operations.
 * Undo changes operations.
 
-#### Part 2
+#### Part 2 [Slides](http://slides.com/ashwinhegde/dvcs-part-2/fullscreen)
 * Git GUI environment.
 * Ignore files.
 * Branching.
