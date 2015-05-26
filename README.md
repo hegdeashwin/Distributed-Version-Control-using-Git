@@ -57,8 +57,6 @@ http-server -p 5005
 * Introduction to Github & Github Desktop.
 * Github Enterprise.
 
-Please visit [http://slides.com/ashwinhegde/deck/fullscreen](http://slides.com/ashwinhegde/deck/fullscreen) for online presentation.
-
 ## Contributors
 
 Developed &amp; maintained by author: Ashwin Hegde
