@@ -57,7 +57,7 @@ http-server -p 5005
 * Introduction to Github & Github Desktop.
 * Github Enterprise.
 
-## Chart sheet List
+## Cheat sheet List
 
 [Git Cheat Sheet](https://gist.github.com/hegdeashwin/6390cf8400ed48c37949)
 
